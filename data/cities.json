@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Isfahan",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-01-26T09:12:33.200Z",
+      "notes": "My home",
+      "position": {
+        "lat": "32.71772069573666",
+        "lng": "51.64923906326295"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-26T09:13:05.854Z",
+      "notes": "",
+      "position": {
+        "lat": "48.85420588329535",
+        "lng": "2.3481559753417973"
+      },
+      "id": 2
+    }
+  ]
+}
